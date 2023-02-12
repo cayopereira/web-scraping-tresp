@@ -4,8 +4,7 @@
 
 Para rodar este projeto na sua máquina, instale:
 
-'''
+```
 pip install selenium
 pip install beautifulsoup4
-
-'''
+```
