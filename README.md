@@ -1,5 +1,5 @@
 <h1>Web scraping na página de notícias do TRE-SP</h1>
-Código para varredura de todas as notícias da página Comunicação do Tribunal Regional Eleitoral de São Paulo (TRE-SP) de acordo com o período selecionado pelo usuário entre os anos de 2021 e 2023.
+Código para varredura de todas as notícias da página Comunicação do Tribunal Regional Eleitoral de São Paulo (TRE-SP) de acordo com o período selecionado pelo usuário entre os anos de 2021 e 2023. Futuramente iremos possibilitar a varredura dos outros tribunais da Justiça Eleitoral e anos anteriores a 2021.
 </p>
 <img src="https://img.shields.io/badge/status-em%20desenvolvimento-green"</>
 </p>
